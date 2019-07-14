@@ -1,0 +1,49 @@
+@charset "UTF-8";
+.jumbotron.text-center .lead {
+}
+#navbarSupportedContent1 .navbar-nav.ml-auto .nav-item {
+    font-family: Constantia, "Lucida Bright", "DejaVu Serif", Georgia, serif;
+}
+.jumbotron.text-center .display-4 {
+    color: #FFFFFF;
+    font-family: neuton-cursive;
+    font-style: normal;
+    font-weight: 400;
+    letter-spacing: 0px;
+}
+.jumbotron.text-center {
+    background-image: url(top-hero.jpg);
+    background-position: center center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    padding-top: 120px;
+    padding-bottom: 120px;
+    width: 100%;
+}
+body div h3 {
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    font-family: Constantia, "Lucida Bright", "DejaVu Serif", Georgia, serif;
+}
+.jumbotron.text-center .lead .btn.btn-primary.btn-lg {
+    background-color: #FFB700;
+    font-family: neuton-cursive;
+    font-style: normal;
+    font-weight: 400;
+    color: #000000;
+    font-size: 15px;
+    text-align: center;
+    padding-left: 30px;
+    padding-right: 30px;
+}
+.jumbotron.text-center p {
+    color: #FFFFFF;
+    font-family: Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", serif;
+    margin-left: 200px;
+    margin-right: 200px;
+}
+.navbar.navbar-expand-lg.navbar-light.bg-light {
+    background-color: #f5a742;
+}
